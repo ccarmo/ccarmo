@@ -20,4 +20,4 @@
 <img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccarmo&layout=compact&theme=vision-friendly-dark" />
 <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=ccarmo&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
 
-![Snake animation](https://github.com/ccarmo/ccarmo/blob/output/github-contribution-grid-snake.svg)
+
