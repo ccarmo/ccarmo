@@ -1,4 +1,4 @@
-### :man_technologist: Cap, it’s Sam. Can you hear me? On your left!  
+### Cap, it’s Sam. Can you hear me? On your left!  
 
 || Desenvolvedor Java Jr ||
 
