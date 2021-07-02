@@ -1,6 +1,6 @@
 ### :man_technologist: Olá, eu sou o Carlos Henrique! Bem vindo ao meu GitHub 👋 
 
-||Desenvolvedor Java Jr||
+|| Desenvolvedor Java Jr ||
 
 #### Meus contatos:
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-henrique-2a85b9aa/)
@@ -16,5 +16,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+
+<img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccarmo&layout=compact&theme=vision-friendly-dark" />
+<img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=ccarmo&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
 
 ![Snake animation](https://github.com/ccarmo/ccarmo/blob/output/github-contribution-grid-snake.svg)
