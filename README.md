@@ -1,5 +1,3 @@
-### Cap, it’s Sam. Can you hear me? On your left!  
-
 || Desenvolvedor Web Jr ||
 
 #### Meus contatos:
